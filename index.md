@@ -2,20 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Deciphering Big Data Submissions 
 
-[Project Title 1](/sample_page)
+[Collaborative Discussions 1 & 2](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Cleaning Exercise](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[API Security Requirements](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Data Build and Normalisation](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Individual Reflection](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 
