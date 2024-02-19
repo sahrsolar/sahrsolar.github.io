@@ -20,7 +20,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Individual Reflection](http://example.com/)
+[Individual Reflection](/pdf/Individual_Reflection.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
