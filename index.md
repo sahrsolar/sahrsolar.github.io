@@ -28,6 +28,12 @@
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
+Total word count = 2,056
+Individual Reflection = 1,071
+API Security Requirements = 416
+Normalisation and Data Build = 293
+Data Cleaning Task = 276
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
