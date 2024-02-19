@@ -5,27 +5,27 @@
 ### Deciphering Big Data Submissions 
 
 [Collaborative Discussion 1](/pdf/Collaborative_Discussion_1.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/discussion.jpg?raw=true"/>
 
 ---
 [Collaborative Discussion 2](/pdf/Collaborative_Discussion_2.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/discussion.jpg?raw=true"/>
 
 ---
 [Data Cleaning Exercise](/pdf/data_clean.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/data_cleaning.jpg?raw=true"/>
 
 ---
 [API Security Requirements](/pdf/API_Security_Requirements.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/api_security.jpg?raw=true"/>
 
 ---
 [Data Build and Normalisation](/pdf/Normalisation_DataBuild.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/database.jpg?raw=true"/>
 
 ---
 [Individual Reflection](/pdf/Individual_Reflection.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/reflection.jpg?raw=true"/>
 
 ### Category Name 2
 
