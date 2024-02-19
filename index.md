@@ -4,7 +4,11 @@
 
 ### Deciphering Big Data Submissions 
 
-[Collaborative Discussions 1 & 2](/sample_page)
+[Collaborative Discussion 1](/pdf/Collaborative_Discussion_1.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Collaborative Discussion 2](/pdf/Collaborative_Discussion_2.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
