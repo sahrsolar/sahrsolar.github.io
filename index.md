@@ -27,6 +27,7 @@
 [Individual Reflection](/pdf/Individual_Reflection.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
