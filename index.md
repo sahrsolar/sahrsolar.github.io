@@ -20,7 +20,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data Build and Normalisation](http://example.com/)
+[Data Build and Normalisation](/pdf/Normalisation_DataBuild.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
