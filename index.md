@@ -17,7 +17,7 @@
 
 ---
 [API Security Requirements](/pdf/API_Security_Requirements.pdf)
-<img src="images/api_security.jpeg?raw=true"/>
+<img src="images/api.jpg?raw=true"/>
 
 ---
 [Data Build and Normalisation](/pdf/Normalisation_DataBuild.pdf)
