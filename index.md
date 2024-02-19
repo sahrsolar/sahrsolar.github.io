@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data Cleaning Exercise](/pdf/sample_presentation.pdf)
+[Data Cleaning Exercise](/pdf/data_clean.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
