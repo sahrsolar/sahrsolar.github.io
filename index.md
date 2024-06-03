@@ -13,55 +13,55 @@
 
 ---
 [Individual Reflection](/pdf/Unit12_Individual_Reflection.pdf)
-<img src="images/data_cleaning.jpg?raw=true"/>
+<img src="images/reflection.jpg?raw=true"/>
 
 ---
 [Unit 2 EDA Tutorial](/pdf/Unit2_EDA_tutorial.pdf)
-<img src="images/api.jpg?raw=true"/>
+<img src="images/eda.jpg?raw=true"/>
 
 ---
 [Unit 3 Correlation & Regression](/pdf/Unit3_Correlation_and_Regression.pdf)
-<img src="images/database.jpg?raw=true"/>
+<img src="images/correlation.jpg?raw=true"/>
 
 ---
 [Unit 4 Linear Regression](/pdf/Unit4_Linear_Regression.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/regression.jpg?raw=true"/>
 
 ---
 [Unit 5 Jaccard Coeffecient](/pdf/Unit5_jaccard_coeffecient.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/jaccard.jpg?raw=true"/>
 
 ---
 [Unit 5 Clustering wiki](/pdf/Unit5_clustering_wiki.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/clustering.jpg?raw=true"/>
 
 ---
 [Unit 6 K Means](/pdf/Unit6_Kmeans.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/kmeans.jpg?raw=true"/>
 
 ---
 [Unit 7 Perception](/pdf/Unit7_perception.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/perception.jpg?raw=true"/>
 
 ---
 [Unit 8 Gradient Cost Function](/pdf/Unit8_Gradient_Cost_Function.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/gradient.jpg?raw=true"/>
 
 ---
 [Unit 9 CNN Model Activity](/pdf/Unit9_CNN_Model_Activity.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/cnn.jpg?raw=true"/>
 
 ---
 [Unit 10 CNN Tutorial](/pdf/Unit10_CNN_tutorial.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/cnn.jpg?raw=true"/>
 
 ---
 [Unit 11 Model Performance Measurement](/pdf/Unit11_Model_Performance_Measurement.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/performance.jpg?raw=true"/>
 
 ---
 [Unit 12 Future of ML Discussion](/pdf/Unit12_Future_of_ML_Discussion.pdf)
-<img src="images/reflection.jpg?raw=true"/>
+<img src="images/future.jpg?raw=true"/>
 
 
 ### Category Name 2
