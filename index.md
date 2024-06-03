@@ -2,9 +2,9 @@
 
 ---
 
-### Deciphering Big Data Submissions 
+### Machine Learning Submissions 
 
-[Collaborative Discussion 1](/pdf/Collaborative_Discussion_1.pdf)
+[Collaborative Discussion 1](/pdf/Unit1_3 Collab Discussion 1.pdf)
 <img src="images/discussion.jpg?raw=true"/>
 
 ---
@@ -12,27 +12,57 @@
 <img src="images/discussion.jpg?raw=true"/>
 
 ---
-[Data Cleaning Exercise](/pdf/data_clean.pdf)
+[Individual Reflection](/pdf/data_clean.pdf)
 <img src="images/data_cleaning.jpg?raw=true"/>
 
 ---
-[API Security Requirements](/pdf/API_Security_Requirements.pdf)
+[Unit 2 EDA Tutorial](/pdf/API_Security_Requirements.pdf)
 <img src="images/api.jpg?raw=true"/>
 
 ---
-[Data Build and Normalisation](/pdf/Normalisation_DataBuild.pdf)
+[Unit 3 Correlation & Regression](/pdf/Normalisation_DataBuild.pdf)
 <img src="images/database.jpg?raw=true"/>
 
 ---
-[Individual Reflection](/pdf/Individual_Reflection.pdf)
+[Unit 4 Linear Regression](/pdf/Individual_Reflection.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-Total word count = 2,056 <br/>
-Individual Reflection = 1,071 <br/>
-API Security Requirements = 416 <br/>
-Normalisation and Data Build = 293 <br/>
-Data Cleaning Task = 276 <br/>
+[Unit 5 Jaccard Coeffecient](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 5 Clustering wiki](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 6 K Means](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 7 Perception](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 8 Gradient Cost Function](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 9 CNN Model Activity](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 10 CNN Tutorial](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 11 Model Performance Measurement](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
+---
+[Unit 12 Future of ML Discussion](/pdf/Individual_Reflection.pdf)
+<img src="images/reflection.jpg?raw=true"/>
+
 
 ### Category Name 2
 
