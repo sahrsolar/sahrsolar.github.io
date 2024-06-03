@@ -4,63 +4,63 @@
 
 ### Machine Learning Submissions 
 
-[Collaborative Discussion 1](/pdf/Unit1_3 Collab Discussion 1.pdf)
+[Collaborative Discussion 1](/pdf/Unit1_3_Collab_Discussion_1.pdf)
 <img src="images/discussion.jpg?raw=true"/>
 
 ---
-[Collaborative Discussion 2](/pdf/Collaborative_Discussion_2.pdf)
+[Collaborative Discussion 2](/pdf/Unit8_10_Collab_Discussion_2.pdf)
 <img src="images/discussion.jpg?raw=true"/>
 
 ---
-[Individual Reflection](/pdf/data_clean.pdf)
+[Individual Reflection](/pdf/Unit12_Individual_Reflection.pdf)
 <img src="images/data_cleaning.jpg?raw=true"/>
 
 ---
-[Unit 2 EDA Tutorial](/pdf/API_Security_Requirements.pdf)
+[Unit 2 EDA Tutorial](/pdf/Unit2_EDA_tutorial.pdf)
 <img src="images/api.jpg?raw=true"/>
 
 ---
-[Unit 3 Correlation & Regression](/pdf/Normalisation_DataBuild.pdf)
+[Unit 3 Correlation & Regression](/pdf/Unit3_Correlation_and_Regression.pdf)
 <img src="images/database.jpg?raw=true"/>
 
 ---
-[Unit 4 Linear Regression](/pdf/Individual_Reflection.pdf)
+[Unit 4 Linear Regression](/pdf/Unit4_Linear_Regression.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 5 Jaccard Coeffecient](/pdf/Individual_Reflection.pdf)
+[Unit 5 Jaccard Coeffecient](/pdf/Unit5_jaccard_coeffecient.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 5 Clustering wiki](/pdf/Individual_Reflection.pdf)
+[Unit 5 Clustering wiki](/pdf/Unit5_clustering_wiki.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 6 K Means](/pdf/Individual_Reflection.pdf)
+[Unit 6 K Means](/pdf/Unit6_Kmeans.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 7 Perception](/pdf/Individual_Reflection.pdf)
+[Unit 7 Perception](/pdf/Unit7_perception.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 8 Gradient Cost Function](/pdf/Individual_Reflection.pdf)
+[Unit 8 Gradient Cost Function](/pdf/Unit8_Gradient_Cost_Function.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 9 CNN Model Activity](/pdf/Individual_Reflection.pdf)
+[Unit 9 CNN Model Activity](/pdf/Unit9_CNN_Model_Activity.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 10 CNN Tutorial](/pdf/Individual_Reflection.pdf)
+[Unit 10 CNN Tutorial](/pdf/Unit10_CNN_tutorial.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 11 Model Performance Measurement](/pdf/Individual_Reflection.pdf)
+[Unit 11 Model Performance Measurement](/pdf/Unit11_Model_Performance_Measurement.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[Unit 12 Future of ML Discussion](/pdf/Individual_Reflection.pdf)
+[Unit 12 Future of ML Discussion](/pdf/Unit12_Future_of_ML_Discussion.pdf)
 <img src="images/reflection.jpg?raw=true"/>
 
 
