@@ -81,13 +81,21 @@
 
 ---
 Word Count
+
 Discussion on ethics - 368 words
+
 Lit Review Research proposal outline - 267 words
+
 Research Proposal Review - 356 words
+
 Reflective Activity - 1032 words
+
 Survey Case study - 207 words
+
 Action Plan Template - 182 words
+
 SWOT analysis - 169 words
+
 Privacy Case Study - 156 words
 
 Total word count = 2737
