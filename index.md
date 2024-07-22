@@ -17,7 +17,7 @@
 
 ---
 [SWOT](/pdf/SWOT.pdf)
-<img src="images/eda.jpg?raw=true"/>
+<img src="images/SWOT.jpeg?raw=true"/>
 
 ---
 [Action Plan](/pdf/Action_Plan.pdf)
